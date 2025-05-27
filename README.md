@@ -8,15 +8,15 @@ This repository contains a notebooks demonstrating key concepts and workflows in
 
 | Section                      | Description                                                                 |
 |-----------------------------|-----------------------------------------------------------------------------|
-| [**Basic Data Manipulation**] (Basic%20Data%20Manipulation) | Data cleaning and preparation techniques                                    |
-| **Data Pipeline**           | Building streamlined preprocessing and modeling pipelines                   |
-| **Feature Selection**       | Techniques to identify the most informative features                        |
-| **KFold Cross Validation**  | Model testing using K-fold cross validation                                 |
-| **KNN**                     | K-Nearest Neighbors classifier implementation                               |
-| **KNN Regressor**           | K-Nearest Neighbors regressor implementation                                |
-| **Decision Tree**           | Training and visualizing decision tree classifiers                         |
-| **Decision Tree Regressor**| Classification using decision trees regressor                                 |
-| **Logistic Regression / SVM** | Classification using logistic regression and support vector machines (SVM) |
+| [**Basic Data Manipulation**](Basic%20Data%20Manipulation) | Data cleaning and preparation techniques                                    |
+| [**Data Pipeline**](Data%20Pipeline)           | Building streamlined preprocessing and modeling pipelines                   |
+| [**Feature Selection**](Feature%20Selection)       | Techniques to identify the most informative features                        |
+| [**KFold Cross Validation**](KFold%20Cross%20Validation)  | Model testing using K-fold cross validation                                 |
+| [**KNN**](KNN)                     | K-Nearest Neighbors classifier implementation                               |
+| [**KNN Regressor**](KNN%20Regressor)           | K-Nearest Neighbors regressor implementation                                |
+| [**Decision Tree**](Decision%20Tree)           | Training and visualizing decision tree classifiers                         |
+| [**Decision Tree Regressor**](Decision%20Tree%20Regressor)| Classification using decision trees regressor                                 |
+| [**Logistic Regression / SVM**](Logistic%20Regression%3ASVM) | Classification using logistic regression and support vector machines (SVM) |
 
 ---
 

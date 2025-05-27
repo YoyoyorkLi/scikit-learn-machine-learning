@@ -8,7 +8,7 @@ This repository contains a notebooks demonstrating key concepts and workflows in
 
 | Section                      | Description                                                                 |
 |-----------------------------|-----------------------------------------------------------------------------|
-| **Basic Data Manipulation** | Data cleaning and preparation techniques                                    |
+| [**Basic Data Manipulation**] (Basic%20Data%20Manipulation) | Data cleaning and preparation techniques                                    |
 | **Data Pipeline**           | Building streamlined preprocessing and modeling pipelines                   |
 | **Feature Selection**       | Techniques to identify the most informative features                        |
 | **KFold Cross Validation**  | Model testing using K-fold cross validation                                 |

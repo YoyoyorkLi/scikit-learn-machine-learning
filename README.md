@@ -17,6 +17,7 @@ This repository contains a notebooks demonstrating key concepts and workflows in
 | [**Decision Tree**](Decision%20Tree)           | Training and visualizing decision tree classifiers                         |
 | [**Decision Tree Regressor**](Decision%20Tree%20Regressor)| Classification using decision trees regressor                                 |
 | [**Logistic Regression / SVM**](Logistic%20Regression%3ASVM) | Classification using logistic regression and support vector machines (SVM) |
+| [**Student Dropout Prediction**](Student%20Dropout%20Prediction) | Predicting college students dropout status using real-world data  |
 
 ---
 
